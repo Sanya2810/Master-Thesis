@@ -10,7 +10,7 @@ b) Estimating the carbon intensity using different metrics.
 Follow the intructions to use the code:
 
 ### 1. Download the code from git
-In the code section, click the green button with "code" written on it and download the zip.
+In the code section, click the green button with "code" written on it and download the zip file.
 
 ### 2. Clone the environment
 
@@ -29,7 +29,15 @@ The code for creating dashboard is in folder "5. Carbon footprint - dashboard". 
 
 ### 5. Network Analysis
 
+##### Replicate the database:
+1. Create a project and an empty DBMS.
+2. Download Apoc library from the Plugins section and copy the files from the "4. Network Analysis" folder in the import folder of the empty database created.
+3. Open the Neo4j browser and run the following command:
+    CALL apoc.cypher.runFile("Database.cypher")
 
+##### Replicate the Neo4j Dashboard
+1. Download the Neo4j Dash from the Graph App Gallery. Neo4j Dash automatically connects the current database when launched.
+2. Open Neo4j Dash and select "Open Existing Dashboard". 
 
 
 
