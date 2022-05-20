@@ -1,0 +1,73 @@
+YEAR,ECONOMIC_SECTOR,NUMBER_OF_BONDS
+2017,Automotive and parts,28
+2017,Beverages,287
+2017,Chemicals,571
+2017,Construction & Materials,847
+2017,Energy and basic resources,1886
+2017,Food,1627
+2017,Infrastructure and transportation,1713
+2017,Insurance,649
+2017,Other sectors,10006
+2017,Real estate,406
+2017,Telecommunication,935
+2017,Utilities,4333
+2018,Automotive and parts,81
+2018,Beverages,737
+2018,Chemicals,1259
+2018,Construction & Materials,1635
+2018,Energy and basic resources,3823
+2018,Food,3073
+2018,Infrastructure and transportation,3595
+2018,Insurance,1385
+2018,Other sectors,22279
+2018,Real estate,1166
+2018,Telecommunication,2169
+2018,Utilities,8330
+2019,Automotive and parts,104
+2019,Beverages,737
+2019,Chemicals,1251
+2019,Construction & Materials,1892
+2019,Energy and basic resources,3845
+2019,Food,2890
+2019,Infrastructure and transportation,3494
+2019,Insurance,1324
+2019,Other sectors,23991
+2019,Real estate,1304
+2019,Telecommunication,2725
+2019,Utilities,8748
+2020,Automotive and parts,102
+2020,Beverages,774
+2020,Chemicals,1407
+2020,Construction & Materials,2156
+2020,Energy and basic resources,4182
+2020,Food,3466
+2020,Infrastructure and transportation,3923
+2020,Insurance,1174
+2020,Other sectors,28892
+2020,Real estate,1643
+2020,Telecommunication,3961
+2020,Utilities,10079
+2021,Automotive and parts,99
+2021,Beverages,756
+2021,Chemicals,1677
+2021,Construction & Materials,2420
+2021,Energy and basic resources,4083
+2021,Food,3806
+2021,Infrastructure and transportation,4274
+2021,Insurance,1359
+2021,Other sectors,32473
+2021,Real estate,2622
+2021,Telecommunication,4688
+2021,Utilities,10918
+2022,Automotive and parts,8
+2022,Beverages,112
+2022,Chemicals,240
+2022,Construction & Materials,393
+2022,Energy and basic resources,624
+2022,Food,595
+2022,Infrastructure and transportation,709
+2022,Insurance,232
+2022,Other sectors,5177
+2022,Real estate,539
+2022,Telecommunication,755
+2022,Utilities,1776

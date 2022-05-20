@@ -1,0 +1,153 @@
+{
+  "title": "Data exploration: CSPP Investments by the ECB",
+  "version": "2.0",
+  "settings": {
+    "pagenumber": 0,
+    "editable": true,
+    "fullscreenEnabled": true,
+    "parameters": {
+      "neodash_limit": "50",
+      "neodash_buys_quarter": "2018Q1"
+    }
+  },
+  "pages": [
+    {
+      "title": "Main Page",
+      "reports": [
+        {
+          "title": "Quarter Selection",
+          "query": "MATCH ()-[n:`Buys`]->() \nWHERE toLower(toString(n.`quarter`)) CONTAINS toLower($input) \nRETURN DISTINCT n.`quarter` as value LIMIT 5",
+          "width": "3",
+          "type": "select",
+          "height": "3",
+          "selection": {},
+          "settings": {
+            "type": "Relationship Property",
+            "entityType": "Buys",
+            "propertyType": "quarter",
+            "parameterName": "neodash_buys_quarter",
+            "clearParameterOnFieldClear": true
+          }
+        },
+        {
+          "title": "",
+          "query": "MATCH (n)-[e:Buys{quarter:$neodash_buys_quarter}]->(m)\nMATCH (m)<-[e2:Issues_bonds] -(m2)\nMATCH (m2)-[e3:Belongs_to_country]->(m3)\nMATCH (m2)-[e4:Belongs_to_sector]->(m4)\nRETURN n,e,e2,m,m2,e3,m3,e4,m4\nLIMIT 100\n",
+          "width": "9",
+          "type": "graph",
+          "height": "3",
+          "selection": {
+            "ECB": "name",
+            "isin_code": "isin",
+            "company": "name",
+            "country_of_risk": "country",
+            "sector": "name"
+          },
+          "settings": {
+            "nodePositions": {},
+            "defaultNodeSize": 4,
+            "nodeColorScheme": "neodash",
+            "frozen": false
+          },
+          "parameters": ""
+        },
+        {
+          "title": "Top 10 companies with maximum bonds purchases",
+          "query": "MATCH (n)-[e:Buys{quarter:$neodash_buys_quarter}]->(m)\nMATCH (m)<-[e2:Issues_bonds] -(m2)\nMATCH (m2)-[e3:Belongs_to_country]->(m3)\nMATCH (m2)-[e4:Belongs_to_sector]->(m4)\nWITH sum(e.issues_number) as NUMBER_OF_ISSUES, m.company_name1 as COMPANY_NAME, m3.country as COUNTRY, m4.name as SECTOR\nRETURN COMPANY_NAME, SECTOR, COUNTRY, NUMBER_OF_ISSUES\nORDER BY NUMBER_OF_ISSUES DESC\nLIMIT 10\n\n\n",
+          "width": "12",
+          "type": "table",
+          "height": "3",
+          "selection": {},
+          "settings": {}
+        },
+        {
+          "title": "Sectorwise breakdown",
+          "query": "MATCH (n)-[e:Buys{quarter:$neodash_buys_quarter}]-(m)\nMATCH (m)<-[e2:Issues_bonds] -(m2)\nMATCH (m2)-[e4:Belongs_to_sector]->(m4)\nWITH m4.name as Sector, sum(e.issues_number) as Number_of_Issues\nRETURN Sector, Number_of_Issues\nORDER BY Number_of_Issues \n",
+          "width": "12",
+          "type": "bar",
+          "height": "3",
+          "selection": {
+            "index": "Sector",
+            "value": "Number_of_Issues",
+            "key": "(none)"
+          },
+          "settings": {
+            "colors": "set2",
+            "layout": "vertical",
+            "labelRotation": 10,
+            "marginBottom": 100,
+            "marginTop": 50,
+            "marginRight": 150,
+            "enableArcLabels": false,
+            "enableArcLinkLabels": true,
+            "legend": false,
+            "marginLeft": 40
+          }
+        },
+        {
+          "title": "Countrywise breakdown ",
+          "query": "MATCH (n)-[e:Buys{quarter:$neodash_buys_quarter}]-(m)\nMATCH (m)<-[e2:Issues_bonds] -(m2)\nMATCH (m2)-[e4:Belongs_to_country]->(m4)\nWITH m4.country as Country, sum(e.issues_number) as Number_of_Issues\nRETURN Country, Number_of_Issues\n\n\n",
+          "width": "12",
+          "type": "bar",
+          "height": "3",
+          "selection": {
+            "index": "Country",
+            "value": "Number_of_Issues",
+            "key": "(none)"
+          },
+          "settings": {
+            "barValues": false,
+            "labelRotation": 20,
+            "colors": "set2",
+            "legend": false
+          }
+        },
+        {
+          "title": "Yearly bonds distribution of country",
+          "query": "MATCH (n)-[e:Buys]-(m)\nMATCH (m)<-[e2:Issues_bonds] -(m2)\nMATCH (m2)-[e4:Belongs_to_country]->(m4)\nWITH m4.country as Country, sum(e.issues_number) as Number_of_Issues, e.Year as Year\nRETURN Country, \n       Number_of_Issues,\n       Year\nORDER BY Year \n\n\n",
+          "width": "6",
+          "type": "bar",
+          "height": "3",
+          "selection": {
+            "index": "Year",
+            "value": "Number_of_Issues",
+            "key": "Country"
+          },
+          "settings": {
+            "groupMode": "stacked",
+            "showOptionalSelections": true,
+            "barValues": false
+          }
+        },
+        {
+          "title": "Yearly bonds distribution of sector",
+          "query": "MATCH (n)-[e:Buys]-(m)\nMATCH (m)<-[e2:Issues_bonds] -(m2)\nMATCH (m2)-[e4:Belongs_to_sector]->(m4)\nWITH m4.name as Sector, sum(e.issues_number) as Number_of_Issues, e.Year as Year\nRETURN Sector, \n       Number_of_Issues,\n       Year\nORDER BY Year \n\n\n",
+          "width": "6",
+          "type": "bar",
+          "height": "3",
+          "selection": {
+            "index": "Year",
+            "value": "Number_of_Issues",
+            "key": "Sector"
+          },
+          "settings": {
+            "showOptionalSelections": true
+          }
+        }
+      ]
+    },
+    {
+      "title": "",
+      "reports": [
+        {
+          "title": "",
+          "query": "\n\n\n",
+          "width": 3,
+          "type": "graph",
+          "height": 3,
+          "selection": {},
+          "settings": {}
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,937 @@
+YEAR,ISSUER_NAME,NUMBER_OF_BONDS,TOTAL__REVENUE,ECONOMIC_SECTOR,TOTAL_GHG: MEAN_INTENSITY,CARBON_INTENSITY
+2020,CRH Finland Services OYJ,33,2.07,Other sectors,27200000.0,13140096.62
+2021,CRH Finland Services OYJ,51,2.07,Other sectors,27200000.0,13140096.62
+2022,CRH Finland Services OYJ,8,2.07,Other sectors,27200000.0,13140096.62
+2019,Holcim Finance S.A.,208,103.91,Other sectors,163219755.0,1570780.05
+2021,Holcim Finance S.A.,480,103.91,Other sectors,163219755.0,1570780.05
+2020,Holcim Finance S.A.,241,103.91,Other sectors,163219755.0,1570780.05
+2017,Holcim Finance S.A.,74,103.91,Other sectors,163219755.0,1570780.05
+2018,Holcim Finance S.A.,200,103.91,Other sectors,163219755.0,1570780.05
+2022,Holcim Finance S.A.,88,103.91,Other sectors,163219755.0,1570780.05
+2019,BASF Finance Europe N.V.,104,29.71,Other sectors,21920000.0,737798.72
+2021,BASF Finance Europe N.V.,51,29.71,Other sectors,21920000.0,737798.72
+2018,BASF Finance Europe N.V.,104,29.71,Other sectors,21920000.0,737798.72
+2022,BASF Finance Europe N.V.,8,29.71,Other sectors,21920000.0,737798.72
+2017,BASF Finance Europe N.V.,56,29.71,Other sectors,21920000.0,737798.72
+2020,BASF Finance Europe N.V.,96,29.71,Other sectors,21920000.0,737798.72
+2022,"Conti-Gummi Finance B.V., Amsterdam",16,5.25,Other sectors,3045659.0,580125.52
+2021,"Conti-Gummi Finance B.V., Amsterdam",102,5.25,Other sectors,3045659.0,580125.52
+2020,"Conti-Gummi Finance B.V., Amsterdam",56,5.25,Other sectors,3045659.0,580125.52
+2018,Deutsche Post Finance B.V.,52,16.41,Other sectors,6490000.0,395490.55
+2020,Deutsche Post Finance B.V.,51,16.41,Other sectors,6490000.0,395490.55
+2017,Deutsche Post Finance B.V.,29,16.41,Other sectors,6490000.0,395490.55
+2021,Deutsche Post Finance B.V.,51,16.41,Other sectors,6490000.0,395490.55
+2022,Deutsche Post Finance B.V.,8,16.41,Other sectors,6490000.0,395490.55
+2019,Deutsche Post Finance B.V.,52,16.41,Other sectors,6490000.0,395490.55
+2017,ESB Finance DAC,84,104.63,Other sectors,10269792.0,98153.42
+2022,ESB Finance DAC,45,104.63,Other sectors,10269792.0,98153.42
+2018,ESB Finance DAC,163,104.63,Other sectors,10269792.0,98153.42
+2021,ESB Finance DAC,255,104.63,Other sectors,10269792.0,98153.42
+2020,ESB Finance DAC,255,104.63,Other sectors,10269792.0,98153.42
+2019,ESB Finance DAC,217,104.63,Other sectors,10269792.0,98153.42
+2020,John Deere Cash Management SA,243,13.59,Other sectors,1113565.0,81940.03
+2017,John Deere Cash Management SA,32,13.59,Other sectors,1113565.0,81940.03
+2018,John Deere Cash Management SA,104,13.59,Other sectors,1113565.0,81940.03
+2022,John Deere Cash Management SA,40,13.59,Other sectors,1113565.0,81940.03
+2021,John Deere Cash Management SA,255,13.59,Other sectors,1113565.0,81940.03
+2019,John Deere Cash Management SA,104,13.59,Other sectors,1113565.0,81940.03
+2021,EnBW International Finance BV,384,214.05,Other sectors,17221000.0,80453.17
+2019,EnBW International Finance BV,123,214.05,Other sectors,17221000.0,80453.17
+2020,EnBW International Finance BV,240,214.05,Other sectors,17221000.0,80453.17
+2022,EnBW International Finance BV,64,214.05,Other sectors,17221000.0,80453.17
+2018,EnBW International Finance BV,150,214.05,Other sectors,17221000.0,80453.17
+2017,EnBW International Finance BV,84,214.05,Other sectors,17221000.0,80453.17
+2017,Iberdrola International B.V.,280,345.41,Other sectors,26415067.0,76474.53
+2019,Iberdrola International B.V.,468,345.41,Other sectors,26415067.0,76474.53
+2021,Iberdrola International B.V.,361,345.41,Other sectors,26415067.0,76474.53
+2022,Iberdrola International B.V.,52,345.41,Other sectors,26415067.0,76474.53
+2020,Iberdrola International B.V.,453,345.41,Other sectors,26415067.0,76474.53
+2018,Iberdrola International B.V.,492,345.41,Other sectors,26415067.0,76474.53
+2021,Total Capital International S.A.,861,528.89,Other sectors,39400000.0,74495.64
+2017,Total Capital International S.A.,238,528.89,Other sectors,39400000.0,74495.64
+2020,Total Capital International S.A.,810,528.89,Other sectors,39400000.0,74495.64
+2018,Total Capital International S.A.,554,528.89,Other sectors,39400000.0,74495.64
+2019,Total Capital International S.A.,648,528.89,Other sectors,39400000.0,74495.64
+2022,Total Capital International S.A.,128,528.89,Other sectors,39400000.0,74495.64
+2020,ENI Finance International S.A.,31,552.64,Other sectors,40811550.0,73848.35
+2021,ENI Finance International S.A.,51,552.64,Other sectors,40811550.0,73848.35
+2022,ENI Finance International S.A.,8,552.64,Other sectors,40811550.0,73848.35
+2020,TOTAL INFRASTRUCTURES GAZ FRANCE,51,732.654975,Infrastructure and transportation,39400000.0,53777.02
+2021,TOTAL INFRASTRUCTURES GAZ FRANCE,115,732.654975,Infrastructure and transportation,39400000.0,53777.02
+2017,TOTAL INFRASTRUCTURES GAZ FRANCE,28,732.654975,Infrastructure and transportation,39400000.0,53777.02
+2019,TOTAL INFRASTRUCTURES GAZ FRANCE,52,732.654975,Infrastructure and transportation,39400000.0,53777.02
+2022,TOTAL INFRASTRUCTURES GAZ FRANCE,24,732.654975,Infrastructure and transportation,39400000.0,53777.02
+2018,TOTAL INFRASTRUCTURES GAZ FRANCE,52,732.654975,Infrastructure and transportation,39400000.0,53777.02
+2017,Linde AG,224,278.67,Other sectors,9600000.0,34449.35
+2018,Linde AG,413,278.67,Other sectors,9600000.0,34449.35
+2019,Linde AG,310,278.67,Other sectors,9600000.0,34449.35
+2020,Linde AG,303,278.67,Other sectors,9600000.0,34449.35
+2022,Linde AG,42,278.67,Other sectors,9600000.0,34449.35
+2021,Linde AG,306,278.67,Other sectors,9600000.0,34449.35
+2022,EDP Finance B.V.,74,651.38,Utilities,19496241.0,29930.67
+2019,EDP Finance B.V.,639,651.38,Utilities,19496241.0,29930.67
+2018,EDP Finance B.V.,611,651.38,Utilities,19496241.0,29930.67
+2020,EDP Finance B.V.,596,651.38,Utilities,19496241.0,29930.67
+2021,EDP Finance B.V.,512,651.38,Utilities,19496241.0,29930.67
+2017,EDP Finance B.V.,299,651.38,Utilities,19496241.0,29930.67
+2018,ABB Finance B.V.,156,62.27,Other sectors,1421000.0,22819.98
+2022,ABB Finance B.V.,24,62.27,Other sectors,1421000.0,22819.98
+2019,ABB Finance B.V.,152,62.27,Other sectors,1421000.0,22819.98
+2021,ABB Finance B.V.,151,62.27,Other sectors,1421000.0,22819.98
+2020,ABB Finance B.V.,143,62.27,Other sectors,1421000.0,22819.98
+2017,ABB Finance B.V.,84,62.27,Other sectors,1421000.0,22819.98
+2017,Linea Group Holding S.p.A.,28,549.01,Other sectors,7103440.0,12938.63
+2018,Linea Group Holding S.p.A.,47,549.01,Other sectors,7103440.0,12938.63
+2019,"Ferrovial Emisiones, S.A.",156,58.17,Other sectors,748897.0,12874.28
+2017,"Ferrovial Emisiones, S.A.",84,58.17,Other sectors,748897.0,12874.28
+2020,"Ferrovial Emisiones, S.A.",191,58.17,Other sectors,748897.0,12874.28
+2018,"Ferrovial Emisiones, S.A.",156,58.17,Other sectors,748897.0,12874.28
+2022,"Ferrovial Emisiones, S.A.",40,58.17,Other sectors,748897.0,12874.28
+2021,"Ferrovial Emisiones, S.A.",255,58.17,Other sectors,748897.0,12874.28
+2019,Volkswagen Intl Finance N.V.,588,887.209519,Other sectors,10673039.0,12029.9
+2017,Volkswagen Intl Finance N.V.,280,887.209519,Other sectors,10673039.0,12029.9
+2022,Volkswagen Intl Finance N.V.,104,887.209519,Other sectors,10673039.0,12029.9
+2021,Volkswagen Intl Finance N.V.,646,887.209519,Other sectors,10673039.0,12029.9
+2020,Volkswagen Intl Finance N.V.,538,887.209519,Other sectors,10673039.0,12029.9
+2018,Volkswagen Intl Finance N.V.,516,887.209519,Other sectors,10673039.0,12029.9
+2017,E.ON Intl Finance B.V.,250,745.735737,Other sectors,7976711.64,10696.43
+2020,E.ON Intl Finance B.V.,471,745.735737,Insurance,7976711.64,10696.43
+2022,E.ON Intl Finance B.V.,64,745.735737,Other sectors,7976711.64,10696.43
+2020,E.ON Intl Finance B.V.,471,745.735737,Other sectors,7976711.64,10696.43
+2017,E.ON Intl Finance B.V.,250,745.735737,Insurance,7976711.64,10696.43
+2019,E.ON Intl Finance B.V.,524,745.735737,Insurance,7976711.64,10696.43
+2018,E.ON Intl Finance B.V.,561,745.735737,Other sectors,7976711.64,10696.43
+2019,E.ON Intl Finance B.V.,524,745.735737,Other sectors,7976711.64,10696.43
+2021,E.ON Intl Finance B.V.,439,745.735737,Other sectors,7976711.64,10696.43
+2022,E.ON Intl Finance B.V.,64,745.735737,Insurance,7976711.64,10696.43
+2021,E.ON Intl Finance B.V.,439,745.735737,Insurance,7976711.64,10696.43
+2018,E.ON Intl Finance B.V.,561,745.735737,Insurance,7976711.64,10696.43
+2020,Roche Finance Europe B.V.,102,71.18,Other sectors,729926.2,10254.65
+2022,Roche Finance Europe B.V.,16,71.18,Other sectors,729926.2,10254.65
+2019,Roche Finance Europe B.V.,104,71.18,Other sectors,729926.2,10254.65
+2017,Roche Finance Europe B.V.,84,71.18,Other sectors,729926.2,10254.65
+2018,Roche Finance Europe B.V.,129,71.18,Other sectors,729926.2,10254.65
+2021,Roche Finance Europe B.V.,102,71.18,Other sectors,729926.2,10254.65
+2020,RTE EDF TRANSPORT,709,5251.98,Utilities,50513272.0,9617.95
+2017,RTE EDF TRANSPORT,262,5251.98,Utilities,50513272.0,9617.95
+2021,RTE EDF TRANSPORT,765,5251.98,Utilities,50513272.0,9617.95
+2022,RTE EDF TRANSPORT,127,5251.98,Utilities,50513272.0,9617.95
+2019,RTE EDF TRANSPORT,618,5251.98,Utilities,50513272.0,9617.95
+2018,RTE EDF TRANSPORT,542,5251.98,Utilities,50513272.0,9617.95
+2020,CARMILA,156,357.91,Real estate,2775432.0,7754.55
+2017,CARMILA,56,357.91,Real estate,2775432.0,7754.55
+2022,CARMILA,40,357.91,Real estate,2775432.0,7754.55
+2019,CARMILA,156,357.91,Real estate,2775432.0,7754.55
+2021,CARMILA,243,357.91,Real estate,2775432.0,7754.55
+2018,CARMILA,147,357.91,Real estate,2775432.0,7754.55
+2021,Coca Cola HBC Finance B.V.,204,100.54,Other sectors,610514.0,6072.35
+2020,Coca Cola HBC Finance B.V.,226,100.54,Other sectors,610514.0,6072.35
+2022,Coca Cola HBC Finance B.V.,32,100.54,Other sectors,610514.0,6072.35
+2017,Coca Cola HBC Finance B.V.,56,100.54,Other sectors,610514.0,6072.35
+2019,Coca Cola HBC Finance B.V.,140,100.54,Other sectors,610514.0,6072.35
+2018,Coca Cola HBC Finance B.V.,104,100.54,Other sectors,610514.0,6072.35
+2022,Barry Callebaut Services N.V,8,62.52,Other sectors,360532.0,5766.67
+2020,Barry Callebaut Services N.V,20,62.52,Other sectors,360532.0,5766.67
+2021,Barry Callebaut Services N.V,51,62.52,Other sectors,360532.0,5766.67
+2020,Bayer Capital Corp. B.V.,255,280.05,Other sectors,1610000.0,5748.97
+2018,Bayer Capital Corp. B.V.,160,280.05,Other sectors,1610000.0,5748.97
+2019,Bayer Capital Corp. B.V.,260,280.05,Other sectors,1610000.0,5748.97
+2022,Bayer Capital Corp. B.V.,40,280.05,Other sectors,1610000.0,5748.97
+2017,Bayer Capital Corp. B.V.,28,280.05,Other sectors,1610000.0,5748.97
+2021,Bayer Capital Corp. B.V.,255,280.05,Other sectors,1610000.0,5748.97
+2022,"Fortum Oyj, Helsinki",24,5160.09,Utilities,18868400.0,3656.6
+2019,"Fortum Oyj, Helsinki",31,5160.09,Utilities,18868400.0,3656.6
+2021,"Fortum Oyj, Helsinki",153,5160.09,Utilities,18868400.0,3656.6
+2020,"Fortum Oyj, Helsinki",153,5160.09,Utilities,18868400.0,3656.6
+2018,METRO Finance B.V.,18,70.96,Beverages,257815.0,3633.24
+2017,METRO Finance B.V.,28,70.96,Beverages,257815.0,3633.24
+2022,HeidelbergCement AG,16,19603.84,Other sectors,65275130.0,3329.71
+2020,HeidelbergCement Fin.Lux. S.A.,426,19603.8351,Other sectors,65275130.0,3329.71
+2021,HeidelbergCement AG,152,19603.84,Other sectors,65275130.0,3329.71
+2018,HeidelbergCement AG,156,19603.84,Other sectors,65275130.0,3329.71
+2022,HeidelbergCement Fin.Lux. S.A.,48,19603.8351,Other sectors,65275130.0,3329.71
+2020,HeidelbergCement AG,153,19603.84,Other sectors,65275130.0,3329.71
+2018,HeidelbergCement Fin.Lux. S.A.,473,19603.8351,Other sectors,65275130.0,3329.71
+2019,HeidelbergCement AG,156,19603.84,Other sectors,65275130.0,3329.71
+2019,HeidelbergCement Fin.Lux. S.A.,469,19603.8351,Other sectors,65275130.0,3329.71
+2017,HeidelbergCement Fin.Lux. S.A.,252,19603.8351,Other sectors,65275130.0,3329.71
+2017,HeidelbergCement AG,84,19603.84,Other sectors,65275130.0,3329.71
+2021,HeidelbergCement Fin.Lux. S.A.,321,19603.8351,Other sectors,65275130.0,3329.71
+2020,Amadeus Capital Markets S.A.U.,91,11.82,Other sectors,36856.0,3118.1
+2018,Amadeus Capital Markets S.A.U.,156,11.82,Other sectors,36856.0,3118.1
+2017,Amadeus Capital Markets S.A.U.,84,11.82,Other sectors,36856.0,3118.1
+2019,Amadeus Capital Markets S.A.U.,124,11.82,Other sectors,36856.0,3118.1
+2021,Amadeus Capital Markets S.A.U.,32,11.82,Other sectors,36856.0,3118.1
+2019,Deutsche Telekom Intl Fin.B.V.,979,1246.27,Other sectors,3863684.49,3100.2
+2017,Deutsche Telekom Intl Fin.B.V.,420,1246.27,Other sectors,3863684.49,3100.2
+2018,Deutsche Telekom Intl Fin.B.V.,895,1246.27,Other sectors,3863684.49,3100.2
+2021,Deutsche Telekom Intl Fin.B.V.,802,1246.27,Other sectors,3863684.49,3100.2
+2022,Deutsche Telekom Intl Fin.B.V.,112,1246.27,Other sectors,3863684.49,3100.2
+2020,Deutsche Telekom Intl Fin.B.V.,913,1246.27,Other sectors,3863684.49,3100.2
+2021,BMW Finance N.V.,1372,755.01,Other sectors,2094594.0,2774.26
+2022,BMW Finance N.V.,201,755.01,Other sectors,2094594.0,2774.26
+2017,BMW Finance N.V.,560,755.01,Other sectors,2094594.0,2774.26
+2019,BMW Finance N.V.,1206,755.01,Other sectors,2094594.0,2774.26
+2020,BMW Finance N.V.,1419,755.01,Other sectors,2094594.0,2774.26
+2018,BMW Finance N.V.,1140,755.01,Other sectors,2094594.0,2774.26
+2022,ArcelorMittal  S.A,32,68679.0,Energy and basic resources,189783787.0,2763.35
+2021,ArcelorMittal  S.A,204,68679.0,Energy and basic resources,189783787.0,2763.35
+2019,ArcelorMittal  S.A,12,68679.0,Energy and basic resources,189783787.0,2763.35
+2020,ArcelorMittal  S.A,199,68679.0,Energy and basic resources,189783787.0,2763.35
+2017,Engie S.A.,400,67312.8354,Utilities,124005237.0,1842.22
+2019,Engie S.A.,930,67312.8354,Utilities,124005237.0,1842.22
+2022,Engie S.A.,200,67312.8354,Utilities,124005237.0,1842.22
+2021,Engie S.A.,1241,67312.8354,Utilities,124005237.0,1842.22
+2018,Engie S.A.,832,67312.8354,Utilities,124005237.0,1842.22
+2020,Engie S.A.,1191,67312.8354,Utilities,124005237.0,1842.22
+2022,EVN AG,8,2470.88,Utilities,3399389.0,1375.78
+2021,EVN AG,51,2470.88,Utilities,3399389.0,1375.78
+2017,EVN AG,28,2470.88,Utilities,3399389.0,1375.78
+2020,EVN AG,51,2470.88,Utilities,3399389.0,1375.78
+2018,EVN AG,52,2470.88,Utilities,3399389.0,1375.78
+2019,EVN AG,52,2470.88,Utilities,3399389.0,1375.78
+2019,DNA Oyj,52,1001.16,Telecommunication,1330569.0,1329.03
+2021,DNA Oyj,51,1001.16,Telecommunication,1330569.0,1329.03
+2022,DNA Oyj,8,1001.16,Telecommunication,1330569.0,1329.03
+2020,DNA Oyj,51,1001.16,Telecommunication,1330569.0,1329.03
+2018,DNA Oyj,40,1001.16,Telecommunication,1330569.0,1329.03
+2022,ENEL S.p.A.,16,82204.46,Utilities,107133737.0,1303.26
+2018,ENEL S.p.A.,134,82204.46,Utilities,107133737.0,1303.26
+2021,ENEL S.p.A.,102,82204.46,Utilities,107133737.0,1303.26
+2017,ENEL S.p.A.,112,82204.46,Utilities,107133737.0,1303.26
+2019,ENEL S.p.A.,104,82204.46,Utilities,107133737.0,1303.26
+2020,ENEL S.p.A.,102,82204.46,Utilities,107133737.0,1303.26
+2021,Compagnie Fin. Ind. Autoroutes,224,1721.12,Infrastructure and transportation,2233043.0,1297.44
+2019,Compagnie Fin. Ind. Autoroutes,208,1721.12,Infrastructure and transportation,2233043.0,1297.44
+2022,Compagnie Fin. Ind. Autoroutes,32,1721.12,Infrastructure and transportation,2233043.0,1297.44
+2020,Compagnie Fin. Ind. Autoroutes,235,1721.12,Infrastructure and transportation,2233043.0,1297.44
+2017,Compagnie Fin. Ind. Autoroutes,96,1721.12,Infrastructure and transportation,2233043.0,1297.44
+2018,Compagnie Fin. Ind. Autoroutes,208,1721.12,Infrastructure and transportation,2233043.0,1297.44
+2022,Veolia Environnement S.A.,112,28041.44,Other sectors,34023120.0,1213.32
+2018,Veolia Environnement S.A.,524,28041.44,Other sectors,34023120.0,1213.32
+2017,Veolia Environnement S.A.,258,28041.44,Other sectors,34023120.0,1213.32
+2021,Veolia Environnement S.A.,713,28041.44,Other sectors,34023120.0,1213.32
+2020,Veolia Environnement S.A.,703,28041.44,Other sectors,34023120.0,1213.32
+2019,Veolia Environnement S.A.,572,28041.44,Other sectors,34023120.0,1213.32
+2019,A2A S.p.A.,314,6389.39,Utilities,7103440.0,1111.76
+2021,A2A S.p.A.,336,6389.39,Utilities,7103440.0,1111.76
+2022,A2A S.p.A.,57,6389.39,Utilities,7103440.0,1111.76
+2020,A2A S.p.A.,313,6389.39,Utilities,7103440.0,1111.76
+2018,A2A S.p.A.,312,6389.39,Utilities,7103440.0,1111.76
+2017,A2A S.p.A.,149,6389.39,Utilities,7103440.0,1111.76
+2019,Air Liquide Finance,61,22991.96,Other sectors,25236000.0,1097.6
+2019,Air Liquide S.A.,52,22991.96,Other sectors,25236000.0,1097.6
+2021,Air Liquide S.A.,51,22991.96,Other sectors,25236000.0,1097.6
+2021,Air Liquide Finance,51,22991.96,Other sectors,25236000.0,1097.6
+2020,Air Liquide S.A.,51,22991.96,Other sectors,25236000.0,1097.6
+2022,Air Liquide Finance,8,22991.96,Other sectors,25236000.0,1097.6
+2022,Air Liquide S.A.,8,22991.96,Other sectors,25236000.0,1097.6
+2020,Air Liquide Finance,74,22991.96,Other sectors,25236000.0,1097.6
+2017,Air Liquide S.A.,56,22991.96,Other sectors,25236000.0,1097.6
+2017,Air Liquide Finance,28,22991.96,Other sectors,25236000.0,1097.6
+2018,Air Liquide Finance,52,22991.96,Other sectors,25236000.0,1097.6
+2018,Air Liquide S.A.,92,22991.96,Other sectors,25236000.0,1097.6
+2021,International Consolidated Airlines Group,102,25851.31,Infrastructure and transportation,28365140.0,1097.24
+2022,International Consolidated Airlines Group,16,25851.31,Infrastructure and transportation,28365140.0,1097.24
+2020,International Consolidated Airlines Group,88,25851.31,Infrastructure and transportation,28365140.0,1097.24
+2020,EDP - Energias de Portugal SA,36,17790.84,Utilities,19496241.0,1095.86
+2022,EDP - Energias de Portugal SA,8,17790.84,Utilities,19496241.0,1095.86
+2021,EDP - Energias de Portugal SA,51,17790.84,Utilities,19496241.0,1095.86
+2017,Solvay S.A.,28,12410.44,Chemicals,13204372.0,1063.97
+2019,Solvay S.A.,15,12410.44,Chemicals,13204372.0,1063.97
+2021,Solvay S.A.,51,12410.44,Chemicals,13204372.0,1063.97
+2020,Solvay S.A.,51,12410.44,Chemicals,13204372.0,1063.97
+2022,Solvay S.A.,8,12410.44,Chemicals,13204372.0,1063.97
+2018,Solvay S.A.,25,12410.44,Chemicals,13204372.0,1063.97
+2017,Siemens Financieringsmaatschappij N.V.,112,820.054678,Other sectors,855593.0,1043.34
+2022,Siemens Financieringsmaatschappij N.V.,147,820.054678,Other sectors,855593.0,1043.34
+2021,Siemens Financieringsmaatschappij N.V.,1011,820.054678,Other sectors,855593.0,1043.34
+2020,Siemens Financieringsmaatschappij N.V.,936,820.054678,Other sectors,855593.0,1043.34
+2018,Siemens Financieringsmaatschappij N.V.,230,820.054678,Other sectors,855593.0,1043.34
+2019,Siemens Financieringsmaatschappij N.V.,401,820.054678,Other sectors,855593.0,1043.34
+2022,ERG S.p.A,24,1195.04,Other sectors,1228672.0,1028.14
+2019,ERG S.p.A,2,1195.04,Other sectors,1228672.0,1028.14
+2020,ERG S.p.A,66,1195.04,Other sectors,1228672.0,1028.14
+2021,ERG S.p.A,117,1195.04,Other sectors,1228672.0,1028.14
+2020,Citycon Treasury B.V.,209,66.41,Other sectors,65923.0,992.67
+2017,Citycon Treasury B.V.,84,66.41,Other sectors,65923.0,992.67
+2021,Citycon Treasury B.V.,236,66.41,Other sectors,65923.0,992.67
+2019,Citycon Treasury B.V.,208,66.41,Other sectors,65923.0,992.67
+2018,Citycon Treasury B.V.,173,66.41,Other sectors,65923.0,992.67
+2022,Citycon Treasury B.V.,32,66.41,Other sectors,65923.0,992.67
+2020,Iren S.p.A.,330,3990.24,Utilities,3926580.0,984.05
+2017,IREN S.P.A.,2,3990.24,Utilities,3926580.0,984.05
+2017,Iren S.p.A.,91,3990.24,Utilities,3926580.0,984.05
+2019,Iren S.p.A.,268,3990.24,Utilities,3926580.0,984.05
+2022,Iren S.p.A.,56,3990.24,Utilities,3926580.0,984.05
+2021,Iren S.p.A.,384,3990.24,Utilities,3926580.0,984.05
+2018,Iren S.p.A.,222,3990.24,Utilities,3926580.0,984.05
+2021,Linde plc,39,11358.0,Other sectors,9600000.0,845.22
+2022,Linde plc,24,11358.0,Other sectors,9600000.0,845.22
+2020,Daimler Intl Finance B.V.,626,4098.02,Other sectors,3197000.0,780.13
+2022,Daimler Intl Finance B.V.,80,4098.02,Other sectors,3197000.0,780.13
+2018,Daimler Intl Finance B.V.,428,4098.02,Other sectors,3197000.0,780.13
+2017,Daimler Intl Finance B.V.,79,4098.02,Other sectors,3197000.0,780.13
+2019,Daimler Intl Finance B.V.,585,4098.02,Other sectors,3197000.0,780.13
+2021,Daimler Intl Finance B.V.,577,4098.02,Other sectors,3197000.0,780.13
+2017,Deutsche Lufthansa AG,28,40280.82,Infrastructure and transportation,29525982.0,733.0
+2018,Deutsche Lufthansa AG,52,40280.82,Infrastructure and transportation,29525982.0,733.0
+2019,Deutsche Lufthansa AG,48,40280.82,Infrastructure and transportation,29525982.0,733.0
+2022,Deutsche Lufthansa AG,8,40280.82,Infrastructure and transportation,29525982.0,733.0
+2020,Deutsche Lufthansa AG,51,40280.82,Infrastructure and transportation,29525982.0,733.0
+2021,Deutsche Lufthansa AG,51,40280.82,Infrastructure and transportation,29525982.0,733.0
+2019,ELECTRICITE DE FRANCE (EDF),728,73319.2,Utilities,50513272.0,688.95
+2022,ELECTRICITE DE FRANCE (EDF),98,73319.2,Utilities,50513272.0,688.95
+2021,ELECTRICITE DE FRANCE (EDF),634,73319.2,Utilities,50513272.0,688.95
+2020,ELECTRICITE DE FRANCE (EDF),734,73319.2,Utilities,50513272.0,688.95
+2018,ELECTRICITE DE FRANCE (EDF),692,73319.2,Utilities,50513272.0,688.95
+2017,ELECTRICITE DE FRANCE (EDF),392,73319.2,Utilities,50513272.0,688.95
+2020,LANXESS AG,204,9407.25574,Other sectors,6192000.0,658.22
+2018,LANXESS AG,209,9407.25574,Other sectors,6192000.0,658.22
+2019,LANXESS AG,208,9407.25574,Other sectors,6192000.0,658.22
+2017,LANXESS AG,112,9407.25574,Other sectors,6192000.0,658.22
+2022,LANXESS AG,40,9407.25574,Other sectors,6192000.0,658.22
+2021,LANXESS AG,199,9407.25574,Other sectors,6192000.0,658.22
+2021,Allianz Finance II B.V.,453,494.38,Other sectors,316345.0,639.88
+2017,Allianz Finance II B.V.,134,494.38,Other sectors,316345.0,639.88
+2020,Allianz Finance II B.V.,452,494.38,Other sectors,316345.0,639.88
+2022,Allianz Finance II B.V.,94,494.38,Other sectors,316345.0,639.88
+2018,Allianz Finance II B.V.,374,494.38,Other sectors,316345.0,639.88
+2019,Allianz Finance II B.V.,355,494.38,Other sectors,316345.0,639.88
+2022,UPM-Kymmene OYJ,16,11309.95,Other sectors,6731000.0,595.14
+2020,UPM-Kymmene OYJ,5,11309.95,Other sectors,6731000.0,595.14
+2021,UPM-Kymmene OYJ,91,11309.95,Other sectors,6731000.0,595.14
+2017,Verbund AG,56,3294.4,Utilities,1922199.0,583.47
+2021,Verbund AG,83,3294.4,Utilities,1922199.0,583.47
+2018,Verbund AG,104,3294.4,Utilities,1922199.0,583.47
+2022,Verbund AG,16,3294.4,Utilities,1922199.0,583.47
+2019,Verbund AG,80,3294.4,Utilities,1922199.0,583.47
+2020,Verbund AG,51,3294.4,Utilities,1922199.0,583.47
+2017,ENI S.P.A.,2,76497.67,Energy and basic resources,40811550.0,533.5
+2018,ENI S.p.A.,836,76497.67,Energy and basic resources,40811550.0,533.5
+2021,ENI S.p.A.,839,76497.67,Energy and basic resources,40811550.0,533.5
+2022,ENI S.p.A.,128,76497.67,Energy and basic resources,40811550.0,533.5
+2017,ENI S.p.A.,498,76497.67,Energy and basic resources,40811550.0,533.5
+2020,ENI S.p.A.,787,76497.67,Energy and basic resources,40811550.0,533.5
+2019,ENI S.p.A.,790,76497.67,Energy and basic resources,40811550.0,533.5
+2020,Evonik Finance B.V.,202,16250.8479,Energy and basic resources,8457485.0,520.43
+2020,Evonik Industries AG,65,16250.85,Energy and basic resources,8457485.0,520.43
+2022,Evonik Finance B.V.,24,16250.8479,Energy and basic resources,8457485.0,520.43
+2022,Evonik Industries AG,8,16250.85,Energy and basic resources,8457485.0,520.43
+2018,Evonik Finance B.V.,208,16250.8479,Energy and basic resources,8457485.0,520.43
+2021,Evonik Finance B.V.,153,16250.8479,Energy and basic resources,8457485.0,520.43
+2021,Evonik Industries AG,51,16250.85,Energy and basic resources,8457485.0,520.43
+2017,Evonik Industries AG,56,16250.85,Energy and basic resources,8457485.0,520.43
+2019,Evonik Finance B.V.,208,16250.8479,Energy and basic resources,8457485.0,520.43
+2018,Evonik Industries AG,104,16250.85,Energy and basic resources,8457485.0,520.43
+2019,Evonik Industries AG,104,16250.85,Energy and basic resources,8457485.0,520.43
+2017,Evonik Finance B.V.,112,16250.8479,Energy and basic resources,8457485.0,520.43
+2022,Snam S.p.A.,130,2861.95,Utilities,1467002.0,512.59
+2020,Snam S.p.A.,688,2861.95,Utilities,1467002.0,512.59
+2018,Snam S.p.A.,650,2861.95,Utilities,1467002.0,512.59
+2017,Snam S.p.A.,343,2861.95,Utilities,1467002.0,512.59
+2019,Snam S.p.A.,640,2861.95,Utilities,1467002.0,512.59
+2021,Snam S.p.A.,734,2861.95,Utilities,1467002.0,512.59
+2019,OMV AG,439,22848.13,Energy and basic resources,11304526.0,494.77
+2017,OMV AG,171,22848.13,Energy and basic resources,11304526.0,494.77
+2021,OMV AG,652,22848.13,Energy and basic resources,11304526.0,494.77
+2022,OMV AG,96,22848.13,Energy and basic resources,11304526.0,494.77
+2018,OMV AG,366,22848.13,Energy and basic resources,11304526.0,494.77
+2020,OMV AG,579,22848.13,Energy and basic resources,11304526.0,494.77
+2022,Autoroutes du Sud de la France,72,4895.14,Construction & Materials,2233043.0,456.18
+2018,Autoroutes du Sud de la France,530,4895.14,Construction & Materials,2233043.0,456.18
+2020,Autoroutes du Sud de la France,474,4895.14,Construction & Materials,2233043.0,456.18
+2017,Autoroutes du Sud de la France,252,4895.14,Construction & Materials,2233043.0,456.18
+2019,Autoroutes du Sud de la France,487,4895.14,Construction & Materials,2233043.0,456.18
+2021,Autoroutes du Sud de la France,459,4895.14,Construction & Materials,2233043.0,456.18
+2020,ARKEMA SA,163,9407.25574,Energy and basic resources,4190000.0,445.4
+2021,ARKEMA SA,204,9407.25574,Energy and basic resources,4190000.0,445.4
+2019,ARKEMA SA,108,9407.25574,Energy and basic resources,4190000.0,445.4
+2017,ARKEMA SA,62,9407.25574,Energy and basic resources,4190000.0,445.4
+2018,ARKEMA SA,104,9407.25574,Energy and basic resources,4190000.0,445.4
+2022,ARKEMA SA,32,9407.25574,Energy and basic resources,4190000.0,445.4
+2022,SUEZ,112,17832.66,Other sectors,7753552.0,434.8
+2019,SUEZ,544,17832.66,Other sectors,7753552.0,434.8
+2017,SUEZ,266,17832.66,Other sectors,7753552.0,434.8
+2020,SUEZ,637,17832.66,Other sectors,7753552.0,434.8
+2018,SUEZ,535,17832.66,Other sectors,7753552.0,434.8
+2021,SUEZ,724,17832.66,Other sectors,7753552.0,434.8
+2022,Akzo Nobel N.V.,32,10860.2621,Food,4550000.0,418.96
+2021,Akzo Nobel N.V.,204,10860.2621,Food,4550000.0,418.96
+2017,Akzo Nobel N.V.,92,10860.2621,Food,4550000.0,418.96
+2018,Akzo Nobel N.V.,206,10860.2621,Food,4550000.0,418.96
+2020,Akzo Nobel N.V.,189,10860.2621,Food,4550000.0,418.96
+2019,Akzo Nobel N.V.,183,10860.2621,Food,4550000.0,418.96
+2022,Stora Enso Oyj,24,11349.49,Other sectors,3720000.0,327.77
+2021,Stora Enso Oyj,153,11349.49,Other sectors,3720000.0,327.77
+2020,Stora Enso Oyj,105,11349.49,Other sectors,3720000.0,327.77
+2018,Stora Enso Oyj,28,11349.49,Other sectors,3720000.0,327.77
+2019,Stora Enso Oyj,104,11349.49,Other sectors,3720000.0,327.77
+2021,BASF SE,463,69173.72,Energy and basic resources,21920000.0,316.88
+2017,BASF SE,189,69173.72,Energy and basic resources,21920000.0,316.88
+2019,BASF SE,464,69173.72,Energy and basic resources,21920000.0,316.88
+2018,BASF SE,519,69173.72,Energy and basic resources,21920000.0,316.88
+2020,BASF SE,466,69173.72,Energy and basic resources,21920000.0,316.88
+2022,BASF SE,72,69173.72,Energy and basic resources,21920000.0,316.88
+2018,Italgas S.P.A.,208,1808.87,Utilities,528890.0,292.39
+2020,Italgas S.P.A.,331,1808.87,Utilities,528890.0,292.39
+2022,Italgas S.P.A.,66,1808.87,Utilities,528890.0,292.39
+2021,Italgas S.P.A.,445,1808.87,Utilities,528890.0,292.39
+2019,Italgas S.P.A.,232,1808.87,Utilities,528890.0,292.39
+2017,Italgas S.P.A.,99,1808.87,Utilities,528890.0,292.39
+2021,Compagnie de Saint-Gobain S.A.,459,46109.7894,Other sectors,12937998.0,280.59
+2019,Compagnie de Saint-Gobain S.A.,364,46109.7894,Other sectors,12937998.0,280.59
+2022,Compagnie de Saint-Gobain S.A.,72,46109.7894,Other sectors,12937998.0,280.59
+2018,Compagnie de Saint-Gobain S.A.,260,46109.7894,Other sectors,12937998.0,280.59
+2020,Compagnie de Saint-Gobain S.A.,416,46109.7894,Other sectors,12937998.0,280.59
+2017,Compagnie de Saint-Gobain S.A.,84,46109.7894,Other sectors,12937998.0,280.59
+2022,Metsa Board Oyj,8,2095.45,Other sectors,554610.0,264.67
+2020,Metsa Board Oyj,51,2095.45,Other sectors,554610.0,264.67
+2019,Metsa Board Oyj,52,2095.45,Other sectors,554610.0,264.67
+2018,Metsa Board Oyj,29,2095.45,Other sectors,554610.0,264.67
+2021,Metsa Board Oyj,51,2095.45,Other sectors,554610.0,264.67
+2020,CPI Property Group SA,32,582.33,Other sectors,151939.0,260.92
+2021,CPI Property Group SA,99,582.33,Other sectors,151939.0,260.92
+2022,CPI Property Group SA,23,582.33,Other sectors,151939.0,260.92
+2019,Autostrada Brescia Verona Vicenza Padova S.p.A,52,458.45,Other sectors,117441.0,256.17
+2018,Autostrada Brescia Verona Vicenza Padova S.p.A,52,458.45,Other sectors,117441.0,256.17
+2020,Autostrada Brescia Verona Vicenza Padova S.p.A,11,458.45,Other sectors,117441.0,256.17
+2017,Autostrada Brescia Verona Vicenza Padova S.p.A,28,458.45,Other sectors,117441.0,256.17
+2018,Uniper SE,49,81783.02,Utilities,18868400.0,230.71
+2017,Uniper SE,28,81783.02,Utilities,18868400.0,230.71
+2018,ACEA S.p.A.,237,3046.95,Utilities,687332.0,225.58
+2019,ACEA S.p.A.,228,3046.95,Utilities,687332.0,225.58
+2017,ACEA S.p.A.,112,3046.95,Utilities,687332.0,225.58
+2022,ACEA S.p.A.,56,3046.95,Utilities,687332.0,225.58
+2021,ACEA S.p.A.,349,3046.95,Utilities,687332.0,225.58
+2020,ACEA S.p.A.,260,3046.95,Utilities,687332.0,225.58
+2020,Hera S.p.A.,257,6695.69,Utilities,1463784.0,218.62
+2017,Hera S.p.A.,140,6695.69,Utilities,1463784.0,218.62
+2021,Hera S.p.A.,299,6695.69,Utilities,1463784.0,218.62
+2022,Hera S.p.A.,48,6695.69,Utilities,1463784.0,218.62
+2019,Hera S.p.A.,267,6695.69,Utilities,1463784.0,218.62
+2018,Hera S.p.A.,260,6695.69,Utilities,1463784.0,218.62
+2021,Aeroporti di Roma S.p.A.,58,1121.47,Infrastructure and transportation,222456.0,198.36
+2019,Aeroporti di Roma S.p.A.,104,1121.47,Infrastructure and transportation,222456.0,198.36
+2018,Aeroporti di Roma S.p.A.,104,1121.47,Infrastructure and transportation,222456.0,198.36
+2020,Aeroporti di Roma S.p.A.,102,1121.47,Infrastructure and transportation,222456.0,198.36
+2017,Aeroporti di Roma S.p.A.,56,1121.47,Infrastructure and transportation,222456.0,198.36
+2022,Aeroporti di Roma S.p.A.,8,1121.47,Infrastructure and transportation,222456.0,198.36
+2021,E.ON SE,875,42720.19,Utilities,7976711.64,186.72
+2019,E.ON SE,167,42720.19,Utilities,7976711.64,186.72
+2020,E.ON SE,705,42720.19,Utilities,7976711.64,186.72
+2017,E.ON SE,84,42720.19,Utilities,7976711.64,186.72
+2018,E.ON SE,156,42720.19,Utilities,7976711.64,186.72
+2022,E.ON SE,148,42720.19,Utilities,7976711.64,186.72
+2017,Citycon Oyj,28,381.33,Real estate,65923.0,172.88
+2019,Citycon Oyj,46,381.33,Real estate,65923.0,172.88
+2018,Citycon Oyj,52,381.33,Real estate,65923.0,172.88
+2020,Koninklijke DSM NV,256,9752.99,Other sectors,1460000.0,149.7
+2019,Koninklijke DSM NV,240,9752.99,Other sectors,1460000.0,149.7
+2018,Koninklijke DSM NV,260,9752.99,Other sectors,1460000.0,149.7
+2017,Koninklijke DSM NV,140,9752.99,Other sectors,1460000.0,149.7
+2021,Koninklijke DSM NV,278,9752.99,Other sectors,1460000.0,149.7
+2022,Koninklijke DSM NV,40,9752.99,Other sectors,1460000.0,149.7
+2019,Esselunga S.p.A.,104,8581.03,Beverages,1228672.0,143.18
+2017,Esselunga S.p.A.,20,8581.03,Beverages,1228672.0,143.18
+2022,Esselunga S.p.A.,16,8581.03,Beverages,1228672.0,143.18
+2021,Esselunga S.p.A.,102,8581.03,Beverages,1228672.0,143.18
+2020,Esselunga S.p.A.,102,8581.03,Beverages,1228672.0,143.18
+2018,Esselunga S.p.A.,104,8581.03,Beverages,1228672.0,143.18
+2018,"Compagnie Generale des Etablissements Michelin, Clermont-Ferrand",51,24811.83,Other sectors,3462269.0,139.54
+2022,"Compagnie Generale des Etablissements Michelin, Clermont-Ferrand",48,24811.83,Other sectors,3462269.0,139.54
+2020,"Compagnie Generale des Etablissements Michelin, Clermont-Ferrand",174,24811.83,Other sectors,3462269.0,139.54
+2019,"Compagnie Generale des Etablissements Michelin, Clermont-Ferrand",156,24811.83,Other sectors,3462269.0,139.54
+2021,"Compagnie Generale des Etablissements Michelin, Clermont-Ferrand",306,24811.83,Other sectors,3462269.0,139.54
+2020,Infrastrutture Wireless Italiane S.p.A,33,402.91,Telecommunication,55629.75,138.07
+2022,Infrastrutture Wireless Italiane S.p.A,24,402.91,Telecommunication,55629.75,138.07
+2021,Infrastrutture Wireless Italiane S.p.A,138,402.91,Telecommunication,55629.75,138.07
+2021,SOCIETE DES AUTOROUTES PARIS-RHIN-RHONE (APRR),516,3083.18,Construction & Materials,409562.0,132.84
+2018,SOCIETE DES AUTOROUTES PARIS-RHIN-RHONE (APRR),265,3083.18,Construction & Materials,409562.0,132.84
+2017,SOCIETE DES AUTOROUTES PARIS-RHIN-RHONE (APRR),119,3083.18,Construction & Materials,409562.0,132.84
+2020,SOCIETE DES AUTOROUTES PARIS-RHIN-RHONE (APRR),404,3083.18,Construction & Materials,409562.0,132.84
+2022,SOCIETE DES AUTOROUTES PARIS-RHIN-RHONE (APRR),88,3083.18,Construction & Materials,409562.0,132.84
+2019,SOCIETE DES AUTOROUTES PARIS-RHIN-RHONE (APRR),312,3083.18,Construction & Materials,409562.0,132.84
+2017,Edison S.p.A.,20,9923.6,Utilities,1228672.0,123.81
+2022,Vonovia Finance B.V.,203,359.42,Other sectors,44014.06,122.46
+2020,Vonovia Finance B.V.,1259,359.42,Other sectors,44014.06,122.46
+2021,Vonovia Finance B.V.,1362,359.42,Other sectors,44014.06,122.46
+2019,Vonovia Finance B.V.,1063,359.42,Other sectors,44014.06,122.46
+2017,Vonovia Finance B.V.,345,359.42,Other sectors,44014.06,122.46
+2018,Vonovia Finance B.V.,1018,359.42,Other sectors,44014.06,122.46
+2021,Technip Energies NV,31,8168.02,Other sectors,895163.0,109.59
+2022,Technip Energies NV,8,8168.02,Other sectors,895163.0,109.59
+2020,SOCIETE FONCIERE LYONNAISE SA,182,223.65,Other sectors,22028.0,98.49
+2021,SOCIETE FONCIERE LYONNAISE SA,196,223.65,Other sectors,22028.0,98.49
+2019,SOCIETE FONCIERE LYONNAISE SA,156,223.65,Other sectors,22028.0,98.49
+2017,SOCIETE FONCIERE LYONNAISE SA,56,223.65,Other sectors,22028.0,98.49
+2022,SOCIETE FONCIERE LYONNAISE SA,32,223.65,Other sectors,22028.0,98.49
+2018,SOCIETE FONCIERE LYONNAISE SA,135,223.65,Other sectors,22028.0,98.49
+2020,Deutsche Post AG,448,68528.57,Infrastructure and transportation,6490000.0,94.71
+2019,Deutsche Post AG,364,68528.57,Infrastructure and transportation,6490000.0,94.71
+2017,Deutsche Post AG,171,68528.57,Infrastructure and transportation,6490000.0,94.71
+2018,Deutsche Post AG,356,68528.57,Infrastructure and transportation,6490000.0,94.71
+2021,Deutsche Post AG,408,68528.57,Infrastructure and transportation,6490000.0,94.71
+2022,Deutsche Post AG,64,68528.57,Infrastructure and transportation,6490000.0,94.71
+2022,HOCHTIEF AG,32,25569.92,Construction & Materials,2215050.0,86.63
+2020,HOCHTIEF AG,164,25569.92,Construction & Materials,2215050.0,86.63
+2021,HOCHTIEF AG,188,25569.92,Construction & Materials,2215050.0,86.63
+2018,HOCHTIEF AG,6,25569.92,Construction & Materials,2215050.0,86.63
+2019,HOCHTIEF AG,87,25569.92,Construction & Materials,2215050.0,86.63
+2019,Cellnex Telecom S.A.,104,855.99,Infrastructure and transportation,72010.14,84.12
+2017,Cellnex Telecom S.A.,56,855.99,Infrastructure and transportation,72010.14,84.12
+2021,Cellnex Telecom S.A.,306,855.99,Infrastructure and transportation,72010.14,84.12
+2022,Cellnex Telecom S.A.,48,855.99,Infrastructure and transportation,72010.14,84.12
+2018,Cellnex Telecom S.A.,104,855.99,Infrastructure and transportation,72010.14,84.12
+2020,Cellnex Telecom S.A.,220,855.99,Infrastructure and transportation,72010.14,84.12
+2022,Anheuser-Busch InBev S.A./N.V.,112,56444.0,Energy and basic resources,4681436.0,82.94
+2021,Anheuser-Busch InBev S.A./N.V.,717,56444.0,Energy and basic resources,4681436.0,82.94
+2017,Anheuser-Busch InBev S.A./N.V.,504,56444.0,Energy and basic resources,4681436.0,82.94
+2020,Anheuser-Busch InBev S.A./N.V.,916,56444.0,Energy and basic resources,4681436.0,82.94
+2019,Anheuser-Busch InBev S.A./N.V.,1019,56444.0,Energy and basic resources,4681436.0,82.94
+2018,Anheuser-Busch InBev S.A./N.V.,1032,56444.0,Energy and basic resources,4681436.0,82.94
+2017,Bouygues S.A.,168,37368.02,Construction & Materials,3004900.0,80.41
+2020,Bouygues S.A.,218,37368.02,Construction & Materials,3004900.0,80.41
+2022,Bouygues S.A.,37,37368.02,Construction & Materials,3004900.0,80.41
+2018,Bouygues S.A.,266,37368.02,Construction & Materials,3004900.0,80.41
+2019,Bouygues S.A.,251,37368.02,Construction & Materials,3004900.0,80.41
+2021,Bouygues S.A.,212,37368.02,Construction & Materials,3004900.0,80.41
+2020,Schaeffler AG,173,15841.84,Other sectors,1234113.0,77.9
+2022,Schaeffler AG,40,15841.84,Other sectors,1234113.0,77.9
+2019,Schaeffler AG,95,15841.84,Other sectors,1234113.0,77.9
+2021,Schaeffler AG,255,15841.84,Other sectors,1234113.0,77.9
+2019,Klepierre,401,1589.16,Other sectors,118038.0,74.28
+2020,Klepierre,441,1589.16,Other sectors,118038.0,74.28
+2017,KLEPIERRE,10,1589.16,Other sectors,118038.0,74.28
+2017,Klepierre,133,1589.16,Other sectors,118038.0,74.28
+2022,Klepierre,80,1589.16,Other sectors,118038.0,74.28
+2021,Klepierre,510,1589.16,Other sectors,118038.0,74.28
+2018,Klepierre,393,1589.16,Other sectors,118038.0,74.28
+2019,Heineken N.V.,572,24415.25,Energy and basic resources,1757665.0,71.99
+2018,Heineken N.V.,498,24415.25,Energy and basic resources,1757665.0,71.99
+2020,Heineken N.V.,703,24415.25,Energy and basic resources,1757665.0,71.99
+2017,Heineken N.V.,232,24415.25,Energy and basic resources,1757665.0,71.99
+2021,Heineken N.V.,698,24415.25,Energy and basic resources,1757665.0,71.99
+2022,Heineken N.V.,104,24415.25,Energy and basic resources,1757665.0,71.99
+2018,Koninklijke Ahold Delhaize N.V.,134,71057.21,Beverages,4360000.0,61.36
+2020,Koninklijke Ahold Delhaize N.V.,242,71057.21,Beverages,4360000.0,61.36
+2018,Delhaize Group S.A.,93,71057.21,Beverages,4360000.0,61.36
+2020,Delhaize Group S.A.,8,71057.21,Beverages,4360000.0,61.36
+2019,Koninklijke Ahold Delhaize N.V.,180,71057.21,Beverages,4360000.0,61.36
+2017,Delhaize Group S.A.,56,71057.21,Beverages,4360000.0,61.36
+2019,Delhaize Group S.A.,52,71057.21,Beverages,4360000.0,61.36
+2017,Koninklijke Ahold Delhaize N.V.,15,71057.21,Beverages,4360000.0,61.36
+2022,Koninklijke Ahold Delhaize N.V.,40,71057.21,Beverages,4360000.0,61.36
+2021,Koninklijke Ahold Delhaize N.V.,255,71057.21,Beverages,4360000.0,61.36
+2020,Continental AG,157,49724.79,Other sectors,3045659.0,61.25
+2018,Continental AG,132,49724.79,Other sectors,3045659.0,61.25
+2022,Continental AG,24,49724.79,Other sectors,3045659.0,61.25
+2017,Continental AG,84,49724.79,Other sectors,3045659.0,61.25
+2019,Continental AG,104,49724.79,Other sectors,3045659.0,61.25
+2021,Continental AG,153,49724.79,Other sectors,3045659.0,61.25
+2018,SOCIETE DES AUTOROUTES DU NORD ET DE L EST DE LA FRANCE (SANEF),155,2068.75,Other sectors,117441.0,56.77
+2019,SOCIETE DES AUTOROUTES DU NORD ET DE L EST DE LA FRANCE (SANEF),133,2068.75,Other sectors,117441.0,56.77
+2017,SOCIETE DES AUTOROUTES DU NORD ET DE L EST DE LA FRANCE (SANEF),56,2068.75,Other sectors,117441.0,56.77
+2022,Holding d Infrastructures de Transport S.A.S,54,2068.75,Other sectors,117441.0,56.77
+2020,SOCIETE DES AUTOROUTES DU NORD ET DE L EST DE LA FRANCE (SANEF),102,2068.75,Other sectors,117441.0,56.77
+2018,Holding d Infrastructures de Transport S.A.S,208,2068.75,Other sectors,117441.0,56.77
+2021,SOCIETE DES AUTOROUTES DU NORD ET DE L EST DE LA FRANCE (SANEF),102,2068.75,Other sectors,117441.0,56.77
+2019,Holding d Infrastructures de Transport S.A.S,208,2068.75,Other sectors,117441.0,56.77
+2017,Holding d Infrastructures de Transport S.A.S,66,2068.75,Other sectors,117441.0,56.77
+2020,Holding d Infrastructures de Transport S.A.S,251,2068.75,Other sectors,117441.0,56.77
+2021,Holding d Infrastructures de Transport S.A.S,330,2068.75,Other sectors,117441.0,56.77
+2022,SOCIETE DES AUTOROUTES DU NORD ET DE L EST DE LA FRANCE (SANEF),16,2068.75,Other sectors,117441.0,56.77
+2020,Auchan Holding SA,56,59508.86,Other sectors,3351862.0,56.33
+2021,Auchan Holding SA,102,59508.86,Other sectors,3351862.0,56.33
+2022,Auchan Holding SA,16,59508.86,Other sectors,3351862.0,56.33
+2017,Terna Rete Elettrica Nazio.SpA,190,2487.17,Utilities,136707.2,54.96
+2020,Terna Rete Elettrica Nazio.SpA,441,2487.17,Utilities,136707.2,54.96
+2022,Terna Rete Elettrica Nazio.SpA,76,2487.17,Utilities,136707.2,54.96
+2018,Terna Rete Elettrica Nazio.SpA,341,2487.17,Utilities,136707.2,54.96
+2021,Terna Rete Elettrica Nazio.SpA,494,2487.17,Utilities,136707.2,54.96
+2019,Terna Rete Elettrica Nazio.SpA,406,2487.17,Utilities,136707.2,54.96
+2021,Signify NV,102,7869.51,Other sectors,422485.0,53.69
+2020,Signify NV,64,7869.51,Other sectors,422485.0,53.69
+2022,Signify NV,16,7869.51,Other sectors,422485.0,53.69
+2018,DANONE,678,28034.21,Food,1467604.0,52.35
+2017,DANONE,386,28034.21,Food,1467604.0,52.35
+2020,DANONE,565,28034.21,Food,1467604.0,52.35
+2019,DANONE,595,28034.21,Food,1467604.0,52.35
+2021,DANONE,528,28034.21,Food,1467604.0,52.35
+2022,DANONE,88,28034.21,Food,1467604.0,52.35
+2022,VINCI,40,46411.46,Construction & Materials,2233043.0,48.11
+2020,VINCI,170,46411.46,Construction & Materials,2233043.0,48.11
+2021,VINCI,229,46411.46,Construction & Materials,2233043.0,48.11
+2018,VINCI,80,46411.46,Construction & Materials,2233043.0,48.11
+2017,VINCI,28,46411.46,Construction & Materials,2233043.0,48.11
+2019,VINCI,203,46411.46,Construction & Materials,2233043.0,48.11
+2021,"Deutsche Telekom AG, Bonn",255,87306.93,Telecommunication,3863684.49,44.25
+2022,"Deutsche Telekom AG, Bonn",40,87306.93,Telecommunication,3863684.49,44.25
+2019,"Deutsche Telekom AG, Bonn",14,87306.93,Telecommunication,3863684.49,44.25
+2020,"Deutsche Telekom AG, Bonn",180,87306.93,Telecommunication,3863684.49,44.25
+2021,JCDECAUX SA,153,3457.95,Other sectors,149887.0,43.35
+2018,JCDECAUX SA,67,3457.95,Other sectors,149887.0,43.35
+2020,JCDECAUX SA,176,3457.95,Other sectors,149887.0,43.35
+2017,JCDECAUX SA,56,3457.95,Other sectors,149887.0,43.35
+2022,JCDECAUX SA,27,3457.95,Other sectors,149887.0,43.35
+2019,JCDECAUX SA,104,3457.95,Other sectors,149887.0,43.35
+2022,Metso Outotec,8,3049.51,Energy and basic resources,130601.0,42.83
+2018,Metso Outotec,52,3049.51,Energy and basic resources,130601.0,42.83
+2020,Metso Outotec,51,3049.51,Energy and basic resources,130601.0,42.83
+2019,Metso Outotec,52,3049.51,Energy and basic resources,130601.0,42.83
+2021,Metso Outotec,51,3049.51,Energy and basic resources,130601.0,42.83
+2017,Metso Outotec,28,3049.51,Energy and basic resources,130601.0,42.83
+2017,Mercialys,35,209.38,Real estate,8892.0,42.47
+2019,Mercialys,156,209.38,Real estate,8892.0,42.47
+2017,MERCIALYS,2,209.38,Real estate,8892.0,42.47
+2018,Mercialys,148,209.38,Real estate,8892.0,42.47
+2022,Mercialys,32,209.38,Real estate,8892.0,42.47
+2021,Mercialys,204,209.38,Real estate,8892.0,42.47
+2020,Mercialys,177,209.38,Real estate,8892.0,42.47
+2022,Leonardo S.p.A.,28,13257.84,Other sectors,561614.0,42.36
+2018,Leonardo S.p.A.,260,13257.84,Other sectors,561614.0,42.36
+2020,Leonardo S.p.A.,255,13257.84,Other sectors,561614.0,42.36
+2017,Leonardo S.p.A.,20,13257.84,Other sectors,561614.0,42.36
+2019,Leonardo S.p.A.,260,13257.84,Other sectors,561614.0,42.36
+2021,Leonardo S.p.A.,252,13257.84,Other sectors,561614.0,42.36
+2018,Valeo S.A.,236,20884.42,Other sectors,856700.0,41.02
+2017,Valeo S.A.,100,20884.42,Other sectors,856700.0,41.02
+2022,Valeo S.A.,48,20884.42,Other sectors,856700.0,41.02
+2021,Valeo S.A.,276,20884.42,Other sectors,856700.0,41.02
+2019,Valeo S.A.,260,20884.42,Other sectors,856700.0,41.02
+2020,Valeo S.A.,255,20884.42,Other sectors,856700.0,41.02
+2017,Bayer AG,46,39562.22,Chemicals,1610000.0,40.7
+2022,Bayer AG,64,39562.22,Chemicals,1610000.0,40.7
+2018,Bayer AG,52,39562.22,Chemicals,1610000.0,40.7
+2020,Bayer AG,147,39562.22,Chemicals,1610000.0,40.7
+2021,Bayer AG,407,39562.22,Chemicals,1610000.0,40.7
+2019,Bayer AG,52,39562.22,Chemicals,1610000.0,40.7
+2021,Elisa Oyj,155,2019.52,Telecommunication,81935.0,40.57
+2022,Elisa Oyj,24,2019.52,Telecommunication,81935.0,40.57
+2017,Elisa Oyj,84,2019.52,Telecommunication,81935.0,40.57
+2019,Elisa Oyj,184,2019.52,Telecommunication,81935.0,40.57
+2018,Elisa Oyj,156,2019.52,Telecommunication,81935.0,40.57
+2020,Elisa Oyj,167,2019.52,Telecommunication,81935.0,40.57
+2022,Elis SA,8,2478.47,Other sectors,99408.0,40.11
+2021,Elis SA,14,2478.47,Other sectors,99408.0,40.11
+2018,Unilever NV,346,60705.17,Other sectors,2361670.0,38.9
+2017,Unilever NV,112,60705.17,Other sectors,2361670.0,38.9
+2022,Unilever NV,60,60705.17,Other sectors,2361670.0,38.9
+2021,Unilever NV,408,60705.17,Other sectors,2361670.0,38.9
+2019,Unilever NV,364,60705.17,Other sectors,2361670.0,38.9
+2020,Unilever NV,396,60705.17,Other sectors,2361670.0,38.9
+2017,EssilorLuxottica S.A.,56,10376.68,Other sectors,395093.0,38.08
+2018,EssilorLuxottica S.A.,155,10376.68,Other sectors,395093.0,38.08
+2019,EssilorLuxottica S.A.,176,10376.68,Other sectors,395093.0,38.08
+2022,EssilorLuxottica S.A.,72,10376.68,Other sectors,395093.0,38.08
+2020,EssilorLuxottica S.A.,444,10376.68,Other sectors,395093.0,38.08
+2021,EssilorLuxottica S.A.,472,10376.68,Other sectors,395093.0,38.08
+2018,Koninklijke Philips N.V.,174,20089.0,Other sectors,715950.0,35.64
+2019,Koninklijke Philips N.V.,221,20089.0,Other sectors,715950.0,35.64
+2021,Koninklijke Philips N.V.,306,20089.0,Other sectors,715950.0,35.64
+2020,Koninklijke Philips N.V.,280,20089.0,Other sectors,715950.0,35.64
+2022,Koninklijke Philips N.V.,48,20089.0,Other sectors,715950.0,35.64
+2017,Koninklijke Philips N.V.,34,20089.0,Other sectors,715950.0,35.64
+2021,Pernod-Ricard S.A.,357,9823.63,Food,325910.73,33.18
+2020,Pernod-Ricard S.A.,291,9823.63,Food,325910.73,33.18
+2017,Pernod-Ricard S.A.,112,9823.63,Food,325910.73,33.18
+2019,Pernod-Ricard S.A.,208,9823.63,Food,325910.73,33.18
+2018,Pernod-Ricard S.A.,208,9823.63,Food,325910.73,33.18
+2022,Pernod-Ricard S.A.,56,9823.63,Food,325910.73,33.18
+2017,Atlantia S.p.A.,79,6969.84,Infrastructure and transportation,222456.0,31.92
+2018,Atlantia S.p.A.,151,6969.84,Infrastructure and transportation,222456.0,31.92
+2022,Atlantia S.p.A.,16,6969.84,Infrastructure and transportation,222456.0,31.92
+2021,Atlantia S.p.A.,102,6969.84,Infrastructure and transportation,222456.0,31.92
+2020,Atlantia S.p.A.,102,6969.84,Infrastructure and transportation,222456.0,31.92
+2017,ATLANTIA S.P.A.,2,6969.84,Infrastructure and transportation,222456.0,31.92
+2019,Atlantia S.p.A.,104,6969.84,Infrastructure and transportation,222456.0,31.92
+2022,Henkel AG  KGaA,104,22630.0655,Food,697000.0,30.8
+2021,Henkel AG  KGaA,673,22630.0655,Food,697000.0,30.8
+2017,Henkel AG  KGaA,224,22630.0655,Food,697000.0,30.8
+2019,Henkel AG  KGaA,472,22630.0655,Food,697000.0,30.8
+2018,Henkel AG  KGaA,454,22630.0655,Food,697000.0,30.8
+2020,Henkel AG  KGaA,633,22630.0655,Food,697000.0,30.8
+2022,Carrefour SA,32,90285.25,Beverages,2775432.0,30.74
+2020,Carrefour SA,187,90285.25,Beverages,2775432.0,30.74
+2021,Carrefour SA,204,90285.25,Beverages,2775432.0,30.74
+2019,Carrefour SA,104,90285.25,Beverages,2775432.0,30.74
+2018,Carrefour SA,33,90285.25,Beverages,2775432.0,30.74
+2018,GECINA,510,645.83,Other sectors,19319.0,29.91
+2021,GECINA,512,645.83,Other sectors,19319.0,29.91
+2022,GECINA,85,645.83,Other sectors,19319.0,29.91
+2020,GECINA,481,645.83,Other sectors,19319.0,29.91
+2017,GECINA,235,645.83,Other sectors,19319.0,29.91
+2019,GECINA,482,645.83,Other sectors,19319.0,29.91
+2022,Orange S.A.,192,46165.15,Telecommunication,1380063.0,29.89
+2021,Orange S.A.,1157,46165.15,Telecommunication,1380063.0,29.89
+2018,Orange S.A.,823,46165.15,Telecommunication,1380063.0,29.89
+2020,Orange S.A.,1022,46165.15,Telecommunication,1380063.0,29.89
+2019,Orange S.A.,822,46165.15,Telecommunication,1380063.0,29.89
+2017,Orange S.A.,392,46165.15,Telecommunication,1380063.0,29.89
+2021,PostNL NV,102,3078.88,Infrastructure and transportation,87430.0,28.4
+2019,PostNL NV,65,3078.88,Infrastructure and transportation,87430.0,28.4
+2020,PostNL NV,102,3078.88,Infrastructure and transportation,87430.0,28.4
+2018,PostNL NV,52,3078.88,Infrastructure and transportation,87430.0,28.4
+2022,PostNL NV,16,3078.88,Infrastructure and transportation,87430.0,28.4
+2017,PostNL NV,27,3078.88,Infrastructure and transportation,87430.0,28.4
+2017,Legrand S.A.,92,6237.76,Other sectors,176259.0,28.26
+2022,Legrand S.A.,64,6237.76,Other sectors,176259.0,28.26
+2019,Legrand S.A.,260,6237.76,Other sectors,176259.0,28.26
+2020,Legrand S.A.,286,6237.76,Other sectors,176259.0,28.26
+2021,Legrand S.A.,351,6237.76,Other sectors,176259.0,28.26
+2018,Legrand S.A.,251,6237.76,Other sectors,176259.0,28.26
+2017,Deutsche Wohnen AG,28,1698.19,Real estate,44014.06,25.92
+2020,Deutsche Wohnen AG,97,1698.19,Real estate,44014.06,25.92
+2021,Deutsche Wohnen AG,178,1698.19,Real estate,44014.06,25.92
+2022,Deutsche Wohnen AG,32,1698.19,Real estate,44014.06,25.92
+2019,Deutsche Wohnen AG,52,1698.19,Real estate,44014.06,25.92
+2018,Deutsche Wohnen AG,52,1698.19,Real estate,44014.06,25.92
+2021,Nokia OYJ,209,26152.98,Other sectors,674064.0,25.77
+2022,Nokia OYJ,32,26152.98,Other sectors,674064.0,25.77
+2020,Nokia OYJ,217,26152.98,Other sectors,674064.0,25.77
+2019,Nokia OYJ,107,26152.98,Other sectors,674064.0,25.77
+2018,Nokia OYJ,15,26152.98,Other sectors,674064.0,25.77
+2021,Safran SA,82,18660.85,Other sectors,434649.0,23.29
+2022,Safran SA,16,18660.85,Other sectors,434649.0,23.29
+2017,Sanofi S.A.,357,40924.84,Chemicals,927494.0,22.66
+2020,Sanofi S.A.,952,40924.84,Chemicals,927494.0,22.66
+2021,Sanofi S.A.,891,40924.84,Chemicals,927494.0,22.66
+2019,Sanofi S.A.,1028,40924.84,Chemicals,927494.0,22.66
+2022,Sanofi S.A.,128,40924.84,Chemicals,927494.0,22.66
+2018,Sanofi S.A.,942,40924.84,Chemicals,927494.0,22.66
+2021,RENAULT SA,263,66402.16,Other sectors,1374662.0,20.7
+2019,RENAULT SA,208,66402.16,Other sectors,1374662.0,20.7
+2022,RENAULT SA,40,66402.16,Other sectors,1374662.0,20.7
+2017,RENAULT SA,102,66402.16,Other sectors,1374662.0,20.7
+2020,RENAULT SA,298,66402.16,Other sectors,1374662.0,20.7
+2018,RENAULT SA,207,66402.16,Other sectors,1374662.0,20.7
+2022,Proximus S.A.,8,6485.84,Telecommunication,125529.0,19.35
+2021,Proximus S.A.,5,6485.84,Telecommunication,125529.0,19.35
+2021,AEROPORTS DE PARIS,561,4086.72,Infrastructure and transportation,77712.0,19.02
+2019,AEROPORTS DE PARIS,320,4086.72,Infrastructure and transportation,77712.0,19.02
+2018,AEROPORTS DE PARIS,271,4086.72,Infrastructure and transportation,77712.0,19.02
+2022,AEROPORTS DE PARIS,88,4086.72,Infrastructure and transportation,77712.0,19.02
+2020,AEROPORTS DE PARIS,469,4086.72,Infrastructure and transportation,77712.0,19.02
+2017,AEROPORTS DE PARIS,115,4086.72,Infrastructure and transportation,77712.0,19.02
+2022,Abertis Infraestructuras SA,104,6578.28,Construction & Materials,117441.0,17.85
+2017,Abertis Infraestructuras SA,168,6578.28,Construction & Materials,117441.0,17.85
+2018,Abertis Infraestructuras SA,312,6578.28,Construction & Materials,117441.0,17.85
+2019,Abertis Infraestructuras SA,430,6578.28,Construction & Materials,117441.0,17.85
+2021,Abertis Infraestructuras SA,663,6578.28,Construction & Materials,117441.0,17.85
+2020,Abertis Infraestructuras SA,627,6578.28,Construction & Materials,117441.0,17.85
+2017,Daimler AG,617,185471.854,Food,3197000.0,17.24
+2019,Daimler AG,1068,185471.854,Food,3197000.0,17.24
+2020,Daimler AG,1215,185471.854,Food,3197000.0,17.24
+2021,Daimler AG,1291,185471.854,Food,3197000.0,17.24
+2018,Daimler AG,1163,185471.854,Food,3197000.0,17.24
+2022,Daimler AG,195,185471.854,Food,3197000.0,17.24
+2017,Schneider Electric SE,171,27956.25,Other sectors,467121.0,16.71
+2022,Schneider Electric SE,80,27956.25,Other sectors,467121.0,16.71
+2020,Schneider Electric SE,540,27956.25,Other sectors,467121.0,16.71
+2021,Schneider Electric SE,545,27956.25,Other sectors,467121.0,16.71
+2018,Schneider Electric SE,369,27956.25,Other sectors,467121.0,16.71
+2019,Schneider Electric SE,414,27956.25,Other sectors,467121.0,16.71
+2021,Kering S.A.,293,12220.51,Other sectors,187123.0,15.31
+2022,Kering S.A.,40,12220.51,Other sectors,187123.0,15.31
+2017,Kering S.A.,188,12220.51,Other sectors,187123.0,15.31
+2018,Kering S.A.,352,12220.51,Other sectors,187123.0,15.31
+2020,Kering S.A.,296,12220.51,Other sectors,187123.0,15.31
+2019,Kering S.A.,276,12220.51,Other sectors,187123.0,15.31
+2021,Alstom S.A.,145,8016.58,Other sectors,113450.0,14.15
+2022,Alstom S.A.,32,8016.58,Other sectors,113450.0,14.15
+2020,Alstom S.A.,50,8016.58,Other sectors,113450.0,14.15
+2018,Alstom S.A.,52,8016.58,Other sectors,113450.0,14.15
+2017,Alstom S.A.,11,8016.58,Other sectors,113450.0,14.15
+2019,Alstom S.A.,52,8016.58,Other sectors,113450.0,14.15
+2018,Airbus SE,208,66686.8902,Food,937321.0,14.06
+2017,Airbus SE,112,66686.8902,Food,937321.0,14.06
+2020,Airbus SE,395,66686.8902,Food,937321.0,14.06
+2019,Airbus SE,208,66686.8902,Food,937321.0,14.06
+2022,Airbus SE,80,66686.8902,Food,937321.0,14.06
+2021,Airbus SE,510,66686.8902,Food,937321.0,14.06
+2021,Red Electrica Corporacion SA,51,2268.68,Utilities,31500.0,13.88
+2022,Red Electrica Corporacion SA,8,2268.68,Utilities,31500.0,13.88
+2020,Red Electrica Corporacion SA,36,2268.68,Utilities,31500.0,13.88
+2020,CAP GEMINI,349,14151.56,Telecommunication,193627.0,13.68
+2019,CAP GEMINI,156,14151.56,Telecommunication,193627.0,13.68
+2018,CAP GEMINI,126,14151.56,Telecommunication,193627.0,13.68
+2021,CAP GEMINI,438,14151.56,Telecommunication,193627.0,13.68
+2022,CAP GEMINI,56,14151.56,Telecommunication,193627.0,13.68
+2017,CAP GEMINI,28,14151.56,Telecommunication,193627.0,13.68
+2020,MTU Aero Engines AG,25,4403.54,Other sectors,58092.0,13.19
+2022,MTU Aero Engines AG,8,4403.54,Other sectors,58092.0,13.19
+2021,MTU Aero Engines AG,51,4403.54,Other sectors,58092.0,13.19
+2021,THALES,306,17205.02,Other sectors,216242.0,12.57
+2022,THALES,48,17205.02,Other sectors,216242.0,12.57
+2019,THALES,156,17205.02,Other sectors,216242.0,12.57
+2018,THALES,148,17205.02,Other sectors,216242.0,12.57
+2017,THALES,56,17205.02,Other sectors,216242.0,12.57
+2020,THALES,226,17205.02,Other sectors,216242.0,12.57
+2021,SAP SE,622,26507.76,Other sectors,313284.0,11.82
+2018,SAP SE,349,26507.76,Other sectors,313284.0,11.82
+2017,SAP SE,112,26507.76,Other sectors,313284.0,11.82
+2019,SAP SE,617,26507.76,Other sectors,313284.0,11.82
+2020,SAP SE,652,26507.76,Other sectors,313284.0,11.82
+2022,SAP SE,96,26507.76,Other sectors,313284.0,11.82
+2017,SES S.A.,56,2299.28,Telecommunication,27119.12,11.79
+2021,SES S.A.,168,2299.28,Telecommunication,27119.12,11.79
+2019,SES S.A.,164,2299.28,Telecommunication,27119.12,11.79
+2020,SES S.A.,188,2299.28,Telecommunication,27119.12,11.79
+2022,SES S.A.,24,2299.28,Telecommunication,27119.12,11.79
+2018,SES S.A.,145,2299.28,Telecommunication,27119.12,11.79
+2018,Telecom Italia Finance S.A.,52,5086.65,Other sectors,55629.75,10.94
+2019,Telecom Italia Finance S.A.,52,5086.65,Other sectors,55629.75,10.94
+2021,Telecom Italia Finance S.A.,51,5086.65,Other sectors,55629.75,10.94
+2022,Telecom Italia Finance S.A.,8,5086.65,Other sectors,55629.75,10.94
+2017,Telecom Italia Finance S.A.,14,5086.65,Other sectors,55629.75,10.94
+2020,Telecom Italia Finance S.A.,51,5086.65,Other sectors,55629.75,10.94
+2021,Vonovia SE,270,4065.25416,Real estate,44014.06,10.83
+2022,Vonovia SE,88,4065.25416,Real estate,44014.06,10.83
+2022,"Atos SE, Bezons",32,13553.86,Telecommunication,130424.0,9.62
+2020,"Atos SE, Bezons",153,13553.86,Telecommunication,130424.0,9.62
+2021,"Atos SE, Bezons",160,13553.86,Telecommunication,130424.0,9.62
+2019,"Atos SE, Bezons",156,13553.86,Telecommunication,130424.0,9.62
+2018,"Atos SE, Bezons",24,13553.86,Telecommunication,130424.0,9.62
+2021,"Worldline S.A., Bezons",137,1754.0,Telecommunication,16815.0,9.59
+2020,"Worldline S.A., Bezons",50,1754.0,Telecommunication,16815.0,9.59
+2022,"Worldline S.A., Bezons",24,1754.0,Telecommunication,16815.0,9.59
+2020,"Stellantis N.V, Amsterdam",145,119460.623,Other sectors,1039063.0,8.7
+2021,"Stellantis N.V, Amsterdam",440,119460.623,Other sectors,1039063.0,8.7
+2022,"Stellantis N.V, Amsterdam",96,119460.623,Other sectors,1039063.0,8.7
+2021,METRO AG,144,33039.74,Beverages,257815.0,7.8
+2022,METRO AG,16,33039.74,Beverages,257815.0,7.8
+2019,METRO AG,164,33039.74,Beverages,257815.0,7.8
+2018,METRO AG,199,33039.74,Beverages,257815.0,7.8
+2020,METRO AG,153,33039.74,Beverages,257815.0,7.8
+2017,METRO AG,84,33039.74,Beverages,257815.0,7.8
+2022,"Amadeus IT Group SA, Madrid",59,5239.41,Telecommunication,36856.0,7.03
+2018,"Amadeus IT Group SA, Madrid",45,5239.41,Telecommunication,36856.0,7.03
+2019,"Amadeus IT Group SA, Madrid",156,5239.41,Telecommunication,36856.0,7.03
+2020,"Amadeus IT Group SA, Madrid",228,5239.41,Telecommunication,36856.0,7.03
+2021,"Amadeus IT Group SA, Madrid",352,5239.41,Telecommunication,36856.0,7.03
+2019,SODEXO SA,208,22753.4811,Other sectors,149910.0,6.59
+2020,SODEXO SA,318,22753.4811,Other sectors,149910.0,6.59
+2018,SODEXO SA,188,22753.4811,Other sectors,149910.0,6.59
+2021,SODEXO SA,398,22753.4811,Other sectors,149910.0,6.59
+2022,SODEXO SA,56,22753.4811,Other sectors,149910.0,6.59
+2017,SODEXO SA,90,22753.4811,Other sectors,149910.0,6.59
+2019,Wolters Kluwer N.V.,156,4935.25,Food,31526.0,6.39
+2018,Wolters Kluwer N.V.,156,4935.25,Food,31526.0,6.39
+2017,Wolters Kluwer N.V.,84,4935.25,Food,31526.0,6.39
+2021,Wolters Kluwer N.V.,243,4935.25,Food,31526.0,6.39
+2020,Wolters Kluwer N.V.,178,4935.25,Food,31526.0,6.39
+2022,Wolters Kluwer N.V.,40,4935.25,Food,31526.0,6.39
+2018,Koninklijke KPN NV,156,6485.42,Telecommunication,27322.0,4.21
+2021,Koninklijke KPN NV,163,6485.42,Telecommunication,27322.0,4.21
+2019,Koninklijke KPN NV,156,6485.42,Telecommunication,27322.0,4.21
+2017,Koninklijke KPN NV,84,6485.42,Telecommunication,27322.0,4.21
+2022,Koninklijke KPN NV,32,6485.42,Telecommunication,27322.0,4.21
+2020,Koninklijke KPN NV,167,6485.42,Telecommunication,27322.0,4.21
+2022,Telecom Italia S.p.A.,61,22402.96,Infrastructure and transportation,55629.75,2.48
+2021,Telecom Italia S.p.A.,411,22402.96,Infrastructure and transportation,55629.75,2.48
+2019,Telecom Italia S.p.A.,576,22402.96,Infrastructure and transportation,55629.75,2.48
+2018,Telecom Italia S.p.A.,668,22402.96,Infrastructure and transportation,55629.75,2.48
+2020,Telecom Italia S.p.A.,500,22402.96,Infrastructure and transportation,55629.75,2.48
+2017,Telecom Italia S.p.A.,339,22402.96,Infrastructure and transportation,55629.75,2.48
+2021,Mapfre SA,51,24839.11,Insurance,52383.73,2.11
+2020,Mapfre SA,51,24839.11,Insurance,52383.73,2.11
+2019,Mapfre SA,52,24839.11,Insurance,52383.73,2.11
+2018,Mapfre SA,52,24839.11,Insurance,52383.73,2.11
+2017,Mapfre SA,28,24839.11,Insurance,52383.73,2.11
+2022,Mapfre SA,8,24839.11,Insurance,52383.73,2.11
+2022,SATO Oyj,16,316.48,Real estate,646.9,2.04
+2020,SATO Oyj,50,316.48,Real estate,646.9,2.04
+2021,SATO Oyj,102,316.48,Real estate,646.9,2.04
+2019,ASML Holding N.V.,208,10126.64,Other sectors,20400.0,2.01
+2022,ASML Holding N.V.,48,10126.64,Other sectors,20400.0,2.01
+2017,ASML Holding N.V.,112,10126.64,Other sectors,20400.0,2.01
+2018,ASML Holding N.V.,208,10126.64,Other sectors,20400.0,2.01
+2020,ASML Holding N.V.,280,10126.64,Other sectors,20400.0,2.01
+2021,ASML Holding N.V.,306,10126.64,Other sectors,20400.0,2.01
+2021,BEFIMMO SA,51,171.15,Other sectors,307.17,1.79
+2018,BEFIMMO SA,41,171.15,Other sectors,307.17,1.79
+2019,BEFIMMO SA,52,171.15,Other sectors,307.17,1.79
+2018,Befimmo SA,1,171.15,Other sectors,307.17,1.79
+2022,BEFIMMO SA,8,171.15,Other sectors,307.17,1.79
+2020,BEFIMMO SA,51,171.15,Other sectors,307.17,1.79
+2017,Cofinimmo S.A./N.V.,28,297.38,Real estate,313.0,1.05
+2022,Cofinimmo S.A./N.V.,5,297.38,Real estate,313.0,1.05
+2020,Cofinimmo S.A./N.V.,49,297.38,Real estate,313.0,1.05
+2019,Cofinimmo S.A./N.V.,52,297.38,Real estate,313.0,1.05
+2018,Cofinimmo S.A./N.V.,52,297.38,Real estate,313.0,1.05
+2020,AXA S.A.,51,149811.06,Insurance,145535.6,0.97
+2018,AXA S.A.,52,149811.06,Insurance,145535.6,0.97
+2022,AXA S.A.,8,149811.06,Insurance,145535.6,0.97
+2019,AXA S.A.,52,149811.06,Insurance,145535.6,0.97
+2017,AXA S.A.,28,149811.06,Insurance,145535.6,0.97
+2021,AXA S.A.,51,149811.06,Insurance,145535.6,0.97
+2021,Aegon NV,51,60876.95,Insurance,55841.0,0.92
+2017,Aegon NV,50,60876.95,Insurance,55841.0,0.92
+2020,Aegon NV,51,60876.95,Insurance,55841.0,0.92
+2018,Aegon NV,86,60876.95,Insurance,55841.0,0.92
+2022,Aegon NV,8,60876.95,Insurance,55841.0,0.92
+2019,Aegon NV,52,60876.95,Insurance,55841.0,0.92
+2022,Assicurazioni Generali S.p.A.,8,90545.12,Insurance,77767.0,0.86
+2019,Assicurazioni Generali S.p.A.,104,90545.12,Insurance,77767.0,0.86
+2017,Assicurazioni Generali S.p.A.,56,90545.12,Insurance,77767.0,0.86
+2018,Assicurazioni Generali S.p.A.,104,90545.12,Insurance,77767.0,0.86
+2020,Assicurazioni Generali S.p.A.,53,90545.12,Insurance,77767.0,0.86
+2021,Assicurazioni Generali S.p.A.,51,90545.12,Insurance,77767.0,0.86
+2018,Edenred S.A.,108,1415.72,Other sectors,1111.02,0.78
+2019,Edenred S.A.,156,1415.72,Other sectors,1111.02,0.78
+2022,Edenred S.A.,32,1415.72,Other sectors,1111.02,0.78
+2020,Edenred S.A.,180,1415.72,Other sectors,1111.02,0.78
+2017,Edenred S.A.,56,1415.72,Other sectors,1111.02,0.78
+2021,Edenred S.A.,204,1415.72,Other sectors,1111.02,0.78
+2022,"Inmobiliaria Colonial, Socimi SA",16,323.14,Real estate,210.92,0.65
+2020,"Inmobiliaria Colonial, Socimi SA",10,323.14,Real estate,210.92,0.65
+2021,"Inmobiliaria Colonial, Socimi SA",84,323.14,Real estate,210.92,0.65
+2020,CA Immobilien Anlagen AG,45,420.96,Real estate,243.0,0.58
+2021,CA Immobilien Anlagen AG,102,420.96,Real estate,243.0,0.58
+2022,CA Immobilien Anlagen AG,16,420.96,Real estate,243.0,0.58
+2018,Altareit SCA,26,2128.21,Real estate,1115.0,0.52
+2019,Altareit SCA,52,2128.21,Real estate,1115.0,0.52
+2021,Altareit SCA,51,2128.21,Real estate,1115.0,0.52
+2020,Altareit SCA,51,2128.21,Real estate,1115.0,0.52
+2022,Altareit SCA,8,2128.21,Real estate,1115.0,0.52
+2022,ALTAREA,8,2201.32,Construction & Materials,1115.0,0.51
+2020,ALTAREA,1,2201.32,Construction & Materials,1115.0,0.51
+2021,ALTAREA,51,2201.32,Construction & Materials,1115.0,0.51
+2021,adidas AG,153,23973.47,Other sectors,12017.0,0.5
+2020,adidas AG,41,23973.47,Other sectors,12017.0,0.5
+2022,adidas AG,24,23973.47,Other sectors,12017.0,0.5
+2019,TLG IMMOBILIEN AG,52,853.612985,Real estate,243.0,0.28
+2021,TLG IMMOBILIEN AG,59,853.612985,Real estate,243.0,0.28
+2017,TLG IMMOBILIEN AG,5,853.612985,Real estate,243.0,0.28
+2022,TLG IMMOBILIEN AG,8,853.612985,Real estate,243.0,0.28
+2020,TLG IMMOBILIEN AG,89,853.612985,Real estate,243.0,0.28
+2018,TLG IMMOBILIEN AG,52,853.612985,Real estate,243.0,0.28
+2020,LEG Immobilien AG,153,988.74,Real estate,243.0,0.25
+2022,LEG Immobilien AG,66,988.74,Real estate,243.0,0.25
+2019,LEG Immobilien AG,62,988.74,Real estate,243.0,0.25
+2017,LEG Immobilien AG,28,988.74,Real estate,243.0,0.25
+2018,LEG Immobilien AG,52,988.74,Real estate,243.0,0.25
+2021,LEG Immobilien AG,224,988.74,Real estate,243.0,0.25
+2017,NN Group NV,112,20444.91,Insurance,2462.0,0.12
+2019,NN Group NV,208,20444.91,Insurance,2462.0,0.12
+2018,NN Group NV,208,20444.91,Insurance,2462.0,0.12
+2022,NN Group NV,32,20444.91,Insurance,2462.0,0.12
+2021,NN Group NV,158,20444.91,Insurance,2462.0,0.12
+2020,NN Group NV,175,20444.91,Insurance,2462.0,0.12
+2022,alstria office REIT-AG,16,292.84,Other sectors,28.6,0.1
+2021,alstria office REIT-AG,102,292.84,Other sectors,28.6,0.1
+2018,alstria office REIT-AG,104,292.84,Other sectors,28.6,0.1
+2020,alstria office REIT-AG,128,292.84,Other sectors,28.6,0.1
+2019,alstria office REIT-AG,104,292.84,Other sectors,28.6,0.1
+2017,alstria office REIT-AG,56,292.84,Other sectors,28.6,0.1
+2022,Robert Bosch GmbH,16,88204.04,Other sectors,2713.0,0.03
+2017,Robert Bosch GmbH,28,88204.04,Other sectors,2713.0,0.03
+2021,Robert Bosch GmbH,97,88204.04,Other sectors,2713.0,0.03
+2019,Robert Bosch GmbH,52,88204.04,Other sectors,2713.0,0.03
+2018,Robert Bosch GmbH,52,88204.04,Other sectors,2713.0,0.03
+2020,Robert Bosch GmbH,51,88204.04,Other sectors,2713.0,0.03
+2018,Hannover RE,37,19822.57,Insurance,258.0,0.01
+2019,Hannover RE,52,19822.57,Insurance,258.0,0.01
+2020,Hannover RE,51,19822.57,Insurance,258.0,0.01
+2022,Hannover RE,8,19822.57,Insurance,258.0,0.01
+2021,Hannover RE,51,19822.57,Insurance,258.0,0.01
